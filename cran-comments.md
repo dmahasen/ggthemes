@@ -1,3 +1,5 @@
+This is a comment!
+
 ## R CMD check notes
 
 * In `DESCRIPTION`, the words "Geoms", "Stata", "Tufte", "Tufte's", and "geoms" are not mis-spelled.
